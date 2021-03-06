@@ -10,7 +10,7 @@
 <a href="https://instagram.com/dshakir52/">
   <img align="left" alt="Mufaddal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/ANDROREALM/">
+<a href="https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw/">
   <img align="left" alt="Mufaddal's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -21,10 +21,10 @@
 
 - 🔭 I’m currently working on Html/CSS/Javascript.
 - 🌱 I’m currently learning more about Flutter.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/ANDROREALM).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw).
 - 🤔 I’m looking for help with Web development.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Instagram - @dshakir52](https://instagram.com/dshakir52) , [Youtube - @ANDROREALM](https://youtube.com/ANDROREALM)
+- 📫 How to reach me: [Instagram - @dshakir52](https://instagram.com/dshakir52) , [Youtube - @ANDROREALM](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw)
 - 😄 Pronouns: He/His
 
 [![Linkedin: mufaddalshakir](https://img.shields.io/badge/-mufaddalshakir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mufaddalshakir/)](https://www.linkedin.com/in/mufaddalshakir/)
