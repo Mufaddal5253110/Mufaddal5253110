@@ -49,12 +49,12 @@
 <a href="https://github.com/Mufaddal5253110">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mufaddal5253110&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/Mufaddal5253110/BuddyBuget">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=BuddyBuget&theme=light" />
+<a href="https://github.com/Mufaddal5253110/BudgetBudy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=BudgetBudy&theme=light" />
 
 </a>
-<a href="https://github.com/Mufaddal5253110/FoodOn">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=FoodOn&theme=light" />
+<a href="https://github.com/Mufaddal5253110/FoodOn_FoodDelivery_by_Androrealm">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=FoodOn_FoodDelivery_by_Androrealm&theme=light" />
 </a>
 
 <div align="center">
