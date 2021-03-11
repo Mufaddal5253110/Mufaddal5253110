@@ -26,6 +26,7 @@
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Instagram - @dshakir52](https://instagram.com/dshakir52) , [Youtube - @ANDROREALM](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw)
 - 😄 Pronouns: He/His
+- ⚡ Fun fact: You can take your money even after you die, just you will have to change the currency...
 
 [![Linkedin: mufaddalshakir](https://img.shields.io/badge/-mufaddalshakir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mufaddalshakir/)](https://www.linkedin.com/in/mufaddalshakir/)
 [![GitHub Mufaddal5253110](https://img.shields.io/github/followers/Mufaddal5253110?label=follow&style=social)](https://github.com/Mufaddal5253110)
