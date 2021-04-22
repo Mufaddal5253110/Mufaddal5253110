@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Mufaddal Shakir 👋</h1>
-<h3 align = "center">Android || Flutter || Web Front End developer</h3>
+<h3 align = "center">Android || Flutter Developer</h3>
 
 <a href="https://linkedin.com/in/mufaddalshakir">
   <img align="left" alt="Mufaddal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
