@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Mufaddal Shakir 👋</h1>
-<h3 align = "center">Android || Flutter Developer</h3>
+<h3 align = "center">Android || Flutter Developer || Nodejs</h3>
 
 <a href="https://linkedin.com/in/mufaddalshakir">
   <img align="left" alt="Mufaddal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,10 +19,10 @@
 
 
 
-- 🔭 I’m currently working on Html/CSS/Javascript.
+- 🔭 I’m currently working on Nodejs, ExpressJs, MongoDB
 - 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw).
-- 🤔 I’m looking for help with Web development.
+- 🤔 I’m looking for help with Machine Learning.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Instagram - @dshakir52](https://instagram.com/dshakir52) , [Youtube - @ANDROREALM](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw)
 - 😄 Pronouns: He/His
