@@ -19,8 +19,8 @@
 
 
 
-- 🔭 I’m currently working on Nodejs, ExpressJs, MongoDB
-- 🌱 I’m currently learning more about Flutter.
+- 🔭 I’m currently working on my Problem Solving Skills
+- 🌱 I’m currently learning more about Flutter,Nodejs, ExpressJs, MongoDB
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw).
 - 🤔 I’m looking for help with Machine Learning.
 - 💬 Ask me about Flutter or any tech related stuff.
