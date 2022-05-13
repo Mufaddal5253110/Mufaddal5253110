@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw).
 - 🤔 I’m looking for help with Machine Learning.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Instagram - @dshakir52](https://instagram.com/dshakir52) , [Youtube - @ANDROREALM](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw) , [LinkedIn - @mufaddalshakir](https://www.linkedin.com/in/mufaddalshakir) , [Twitter - @Dshakir6](https://twitter.com/Dshakir6?s=08)
+- 📫 How to reach me: [Instagram - @dshakir52](https://instagram.com/dshakir52) , [Youtube - @ANDROREALM](https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw) , [LinkedIn - @mufaddalshakir](https://www.linkedin.com/in/mufaddalshakir)<!-- , [Twitter - @Dshakir6](https://twitter.com/Dshakir6?s=08) -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You can take your money even after you die, just you will have to change the currency...
 
