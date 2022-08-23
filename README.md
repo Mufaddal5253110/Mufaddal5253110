@@ -54,8 +54,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=BudgetBudy&theme=light" />
 
 </a>
-<a href="https://github.com/Mufaddal5253110/FoodOn_FoodDelivery_by_Androrealm">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=FoodOn_FoodDelivery_by_Androrealm&theme=light" />
+<a href="https://github.com/Mufaddal5253110/Instagram-clone">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=Instagram-clone&theme=light" />
 </a>
 
 <div align="center">
