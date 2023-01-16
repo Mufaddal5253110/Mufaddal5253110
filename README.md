@@ -15,8 +15,6 @@
 </a>
 
 <br/>
-<br/>
-
 
 🔭 I’m currently working on my Problem Solving Skills<br>🌱 I’m currently learning more about Full Stack App Dev & Blockchain.<br>👯 I’m looking to collaborate on Youtube.<br>🤔 I’m looking for help with Blockchain.<br>💬 Ask me about Flutter or any tech related stuff.<br>📫 How to reach me: Youtube - @ANDROREALM , LinkedIn - @mufaddalshakir<br>😄 Pronouns: He/His<br>⚡ Fun fact: You can take your money even after you die, just you will have to change the currency
 
@@ -38,10 +36,10 @@
 [![](https://visitcount.itsvg.in/api?id=Mufaddal5253110&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <a href="https://github.com/Mufaddal5253110/BudgetBudy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=BudgetBudy&theme=light" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mufaddal5253110&repo=BudgetBudy&theme=light" />
 </a>
 <a href="https://github.com/Mufaddal5253110/Instagram-clone">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mufaddal5253110&repo=Instagram-clone&theme=light" />
+ <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mufaddal5253110&repo=Instagram-clone&theme=light" />
 </a>
 
 <div align="center">
