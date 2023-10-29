@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Mufaddal Shakir 👋</h1>
-<h3 align = "center">Flutter Developer</h3>
+<h3 align = "center">Software Engineer</h3>
 
 <a href="https://linkedin.com/in/mufaddalshakir">
   <img align="left" alt="Mufaddal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-🔭 I’m currently working on my Problem Solving Skills<br>🌱 I’m currently learning more about Full Stack App Dev & Blockchain.<br>👯 I’m looking to collaborate on Youtube.<br>🤔 I’m looking for help with Blockchain.<br>💬 Ask me about Flutter or any tech related stuff.<br>📫 How to reach me: Youtube - @ANDROREALM , LinkedIn - @mufaddalshakir<br>😄 Pronouns: He/His<br>⚡ Fun fact: You can take your money even after you die, just you will have to change the currency
+🔭 I’m currently working on my Problem Solving Skills<br>🌱 I’m currently learning more about DevOps & SRE <br>👯 I’m looking to collaborate on Youtube.<br>🤔 I’m looking for help with SRE.<br>💬 Ask me about Flutter or any tech related stuff.<br>📫 How to reach me: Youtube - @ANDROREALM , LinkedIn - @mufaddalshakir<br>😄 Pronouns: He/His<br>⚡ Fun fact: You can take your money even after you die, just you will have to change the currency
 
 
 ## 🌐 Socials:
